@@ -1,0 +1,25 @@
+1. richard pattis
+2. alex thornton
+3. chen li
+4. ray klefstad
+5. wayne hayes
+6. michael dillencourt
+7. lubomir bic
+8. anton burtsev
+9. daniel epstein
+10. artificial intelligence
+11. research areas
+12. algorithm
+13. boolean algebra
+14. discrete mathematics
+15. data management
+16. professor
+17. cristina lopes
+18. master of software engineering
+19. acm
+20. machine learning
+
+The results for many of the above queries improved after adding ranking on certain tags and increasing the weight factor.
+
+
+
